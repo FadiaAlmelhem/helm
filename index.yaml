@@ -3,12 +3,12 @@ entries:
   my-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-25T10:44:08.1518246+03:00"
+    created: "2024-09-25T10:48:35.0021074+03:00"
     description: A Helm chart for Kubernetes
-    digest: 1b03b4ae70587dc0848d8bfe6a143028973f506c02a2fd30137a63f98343a65f
+    digest: ab91b5e5ed96545e37846edd8f032e587b16f284321fde7eb63cc5f8e8cad5cc
     name: my-chart
     type: application
     urls:
     - https://FadiaAlmelhem.github.io/helm/my-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-25T10:44:08.1499906+03:00"
+generated: "2024-09-25T10:48:34.998+03:00"
